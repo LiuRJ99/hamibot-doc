@@ -1,5 +1,5 @@
 ## hamibot脚本地址
-[脚本下载](https://hamibot.com/guide)-hamibot（复制到浏览器中打开）
+[脚本下载](https://hamibot.com/marketplace/greoJ)-hamibot（复制到浏览器中打开）
 
 ## 1、辅助功能
 🌟解放双手🌟原地刷新🌟狂暴破🛡️🌟数量*2🌟到店取/送到家/会员购🌟加速下单
